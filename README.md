@@ -19,6 +19,9 @@ A simple joke generator interface that when clicking the button uses a `get` req
 
 ## Getting Started
 
+![joke-generator-joke-api-cover-image](https://github.com/danieldd00/Random-Joke-Generator-Using-Joke-API/assets/156273935/6cafd670-4c67-48c0-9663-0bd54b69346d)
+
+
 ### Installing
 
 - Download files
